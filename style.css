@@ -1,0 +1,38 @@
+/* styles.css */
+body {
+    background-color: #F7E7DC; /* Light blue background */
+}
+
+.header {
+    color: #405D72; /* Tomato color for text */
+    background-color: #405D72; /* Light gray background */
+    padding: 20px;
+    text-align: center;
+}
+
+.button {
+    background-color: #405D72; /* Medium Sea Green */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #758694; /* Slightly transparent on hover */
+}
+
+.container{
+    color: #405D72; /* Tomato color for text */
+    background-color: #405D72; /* Light gray background */
+    padding: 20px;
+    text-align: center;
+}
+
+.navbar-expand-lg {
+    color: #405D72; /* Tomato color for text */
+    background-color: #405D72; /* Light gray background */
+    padding: 10px 20px;
+    text-align: center;
+}
